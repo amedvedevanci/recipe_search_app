@@ -7,4 +7,4 @@ These recipes will be printed to the screen and saved to a recipes.txt.
 The txt file should be overwritten with every search to avoid a huge list of recipes for the user.
 
 After running, there is a small unit converter included, the use of this is optional.</br>
-If improving the app, it could be an idea to create this in a separate function, and also find a separate unit converter utility that can be called instead.
+If improving the app, it could be an idea to create this in a separate function, and also find a separate unit converter utility that can be called instead. Another way of improving would be to avoid generic names such as "run".
